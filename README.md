@@ -16,7 +16,13 @@ The script runs in the terminal. It asks for an employee’s name, replaces spac
 
 It repeats until the user types 'exit'.
 
-## 3. Testing and Results
+## 3. Tools Used
+
+- Bash Shell  
+- Terminal  
+- nano
+
+## 4. Testing and Results
 
 The script was tested with different names. Results:
 
@@ -27,16 +33,11 @@ The script was tested with different names. Results:
 **Example:**  
 Input: Fahad Al Harbi → Creates Fahad_Al_Harbi folder with required content.
 
-## 4. Conclusion
+## 5. Conclusion
 
 The project automates a real task using simple Bash scripting. It’s efficient, saves time, and works as expected.
 
-## 5. Tools Used
-
-- Bash Shell  
-- Linux Terminal  
-- Visual Studio Code / nano
 
 ---
 
-**Prepared by Ibrahim Alghamdi and Waleed Alsowaihri – 2025**
+****Prepared by Ibrahim Alghamdi and Waleed Alsowaihri – 2025**
