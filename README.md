@@ -1,2 +1,42 @@
-# Fast-Employee-Data-Entry
- Automate employee folder creation with Bash script
+# Fast Employee Data Entry
+
+## 1. Introduction
+
+Manually creating employee folders takes time and effort. This project automates the process using a Bash script that generates a folder for each employee with standard files inside. The goal is to save time and reduce errors.
+
+## 2. Design and Implementation
+
+The script runs in the terminal. It asks for an employee’s name, replaces spaces with underscores, and creates a folder with:
+
+- attendance.csv (with header: Date,Status)  
+- tasks_and_work.txt  
+- content_and_info.txt  
+- ID_picture_placeholder.txt  
+- security/ subfolder  
+
+It repeats until the user types 'exit'.
+
+## 3. Testing and Results
+
+The script was tested with different names. Results:
+
+- All folders and files created correctly  
+- Names with spaces handled properly  
+- Existing folders not overwritten  
+
+**Example:**  
+Input: Fahad Al Harbi → Creates Fahad_Al_Harbi folder with required content.
+
+## 4. Conclusion
+
+The project automates a real task using simple Bash scripting. It’s efficient, saves time, and works as expected.
+
+## 5. Tools Used
+
+- Bash Shell  
+- Linux Terminal  
+- Visual Studio Code / nano
+
+---
+
+**Prepared by Ibrahim Alghamdi and Waleed Alsowaihri – 2025**
