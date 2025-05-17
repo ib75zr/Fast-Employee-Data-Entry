@@ -40,4 +40,4 @@ The project automates a real task using simple Bash scripting. It’s efficient,
 
 ---
 
-****Prepared by Ibrahim Alghamdi and Waleed Alsowaihri – 2025****
+****Prepared by Ibrahim Al-Ghamdi and Al-Waleed Al-Sowaihri – 2025****
